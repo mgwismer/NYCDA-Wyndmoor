@@ -1,3 +1,44 @@
 @import 'variables';
 @import 'navigation';
 @import 'main';
+
+.nature-image {
+	background-image: url("../images/l_20130610-fairmount-park-1200.jpg");
+    background-size: 100% 100%;
+    height: 300px;
+    color: white;
+}
+
+.nature-quote {
+    padding: 100px;
+	height: 300px;
+	line-height: 150%;
+	margin: 0 auto;
+}
+
+.shops-image {
+	background: url('../images/chestnut-hill-philadelphia-1.jpg');	
+    background-size: 100% 100%;
+    height: 300px;
+    color: white;
+}
+
+.shop-quote {
+   width: 100%;
+   margin: 0 auto;
+   line-height:150%;
+}
+
+.cozy-image {
+	background: url('../images/nicehouse.jpg');
+	height: 300px;
+    background-size: 100%;
+    color: white;
+}
+
+.college-image {
+	background: url('../images/college-photo_22247.jpg');
+    height: 300px;
+    background-size: 100% 100%;
+    color: white;
+}
