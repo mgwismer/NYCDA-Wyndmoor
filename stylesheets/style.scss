@@ -36,3 +36,16 @@
     background-size: 100% 100%;
     color: white;
 }
+.modal {
+	border-radius: 10%
+}
+
+.modal-header {
+	background: $mainColor;
+	color: $flavorColor;
+}
+
+.modal-footer {
+	background: $mainColor;
+	color: $flavorColor;
+}

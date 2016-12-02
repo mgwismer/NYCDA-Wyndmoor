@@ -46,4 +46,15 @@
   background-size: 100% 100%;
   color: white; }
 
+.modal {
+  border-radius: 10%; }
+
+.modal-header {
+  background: #59DC73;
+  color: white; }
+
+.modal-footer {
+  background: #59DC73;
+  color: white; }
+
 /*# sourceMappingURL=style.css.map */
