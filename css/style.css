@@ -1,0 +1,19 @@
+.nav-bar {
+  list-style: none;
+  padding: 50px; }
+
+.nav-link {
+  font-size: 30px; }
+
+.main-header {
+  font-family: "Lato";
+  background: #59DC73;
+  text-align: center;
+  height: 400px; }
+
+.h1-header {
+  padding: 100px;
+  position: relative;
+  line-height: 150%; }
+
+/*# sourceMappingURL=style.css.map */
