@@ -11,7 +11,16 @@
 // });
 
 $(document).ready(function(){
-    $( ".nature-image" ).hover(function() {
-        $('#nature-modal').modal("show");
+  $( ".nature-image" ).hover(function() {
+     $('#nature-modal').modal("show");
+  });
+  $( ".shops-image" ).hover(function() {
+     $('#food-modal').modal("show");
+  });
+  $( ".home-image" ).hover(function() {
+     $('#live-modal').modal("show");
   });  
+  $( ".college-image" ).hover(function() {
+     $('#college-modal').modal("show");
+  });      
 });

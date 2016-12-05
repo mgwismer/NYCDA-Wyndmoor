@@ -32,13 +32,13 @@
   background: url("../images/chestnut-hill-philadelphia-1.jpg");
   background-size: 100% 100%;
   height: 300px;
-  color: white; }
+  color: blue; }
 
-.cozy-image {
+.home-image {
   background: url("../images/nicehouse.jpg");
   height: 300px;
   background-size: 100%;
-  color: white; }
+  color: blue; }
 
 .college-image {
   background: url("../images/college-photo_22247.jpg");
@@ -51,10 +51,10 @@
 
 .modal-header {
   background: #59DC73;
-  color: white; }
+  color: pink; }
 
 .modal-footer {
   background: #59DC73;
-  color: white; }
+  color: pink; }
 
 /*# sourceMappingURL=style.css.map */
